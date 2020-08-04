@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596565632355</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second assignment.&#10;Added intent to call google maps">
+      <created>1596567252024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596567252024</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +195,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second assignment.&#10;Added intent to call google maps" />
+    <option name="LAST_COMMIT_MESSAGE" value="second assignment.&#10;Added intent to call google maps" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2001" y="66" key="#app" timestamp="1594690236623">
@@ -205,10 +211,10 @@
       <screen x="1440" y="-33" width="1869" height="1057" />
     </state>
     <state x="2164" y="199" key="AndroidProcessChooserDialog/0.23.1440.877/1440.-33.1869.1057@1440.-33.1869.1057" timestamp="1594690262986" />
-    <state x="227" y="52" key="CommitChangelistDialog2" timestamp="1596567238822">
+    <state x="227" y="52" key="CommitChangelistDialog2" timestamp="1596567251873">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="227" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1596567238822" />
+    <state x="227" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1596567251873" />
     <state width="1878" height="375" key="GridCell.Tab.0.bottom" timestamp="1595191459999">
       <screen x="1440" y="-56" width="1920" height="1080" />
     </state>
@@ -245,10 +251,10 @@
       <screen x="1440" y="-56" width="1920" height="1080" />
     </state>
     <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1440.900/1440.-56.1920.1080@1440.-56.1920.1080" timestamp="1595191451822" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1596565636732">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1596567254331">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1596565636732" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1596567254331" />
     <state x="402" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1596564893785">
       <screen x="0" y="23" width="1395" height="877" />
     </state>
